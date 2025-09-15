@@ -115,7 +115,6 @@ nav a {
 
 .caixa-links {
     display: flex;
-    flex-wrap: wrap;
     gap: 20px;
     margin-bottom: 20px;
 }
@@ -263,6 +262,10 @@ nav a {
 
     .sec-title {
         margin-bottom: 30px;
+    }
+
+    .caixa-principal {
+        margin: 0 auto;
     }
 
     .caixa-principal {
