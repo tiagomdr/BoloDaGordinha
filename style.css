@@ -277,15 +277,20 @@ nav a {
     }
 
     .caixa-principal h1 {
-        font-size: 30px;
+        font-size: 28px;
     }
 
     .caixa-principal p {
-       font-size: 18px;
+       font-size: 15px;
        margin-bottom: 20px;
     }
     .caixa-links {
         flex-wrap: nowrap;
     }
+
+    .caixa-links {
+    gap: 10px;
+}
+
 }
 
