@@ -245,6 +245,10 @@ nav a {
         flex-direction: column;
     }
 
+    .secao {
+        justify-content: center;
+    }
+
     .perfil-img {
         width: 300px;
     }
