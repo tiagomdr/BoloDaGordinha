@@ -269,7 +269,7 @@ nav a {
     }
 
     .caixa-principal {
-        max-width: 90%;
+        max-width: 95%;
         margin: 0 auto;
     }
 
@@ -278,11 +278,11 @@ nav a {
     }
 
     .caixa-principal h1 {
-        font-size: 25px;
+        font-size: 28px;
     }
 
     .caixa-principal p {
-       font-size: 12px;
+       font-size: 15px;
        margin-bottom: 20px;
     }
     .caixa-links {
@@ -292,6 +292,7 @@ nav a {
     .caixa-links {
     gap: 10px;
 }
+
 
 }
 
